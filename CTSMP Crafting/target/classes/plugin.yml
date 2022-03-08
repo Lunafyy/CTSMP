@@ -1,0 +1,5 @@
+name: HypixelCrafting
+version: '1.0-SNAPSHOT'
+main: me.lunafy.hypixelcrafting.HypixelCrafting
+api-version: 1.18
+authors: [ Lunafy ]

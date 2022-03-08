@@ -1,0 +1,5 @@
+name: HypixelCrafting
+version: '${project.version}'
+main: me.lunafy.hypixelcrafting.HypixelCrafting
+api-version: 1.18
+authors: [ Lunafy ]
