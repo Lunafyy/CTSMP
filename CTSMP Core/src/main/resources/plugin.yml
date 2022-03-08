@@ -1,0 +1,11 @@
+name: CTSMPCore
+version: '${project.version}'
+main: me.lunafy.ctsmpcore.CTSMPCore
+api-version: 1.18
+authors: [ Lunafy ]
+description: The Core Framework to CTSMP
+commands:
+  newheart:
+    usage: /<command>
+  sethearts:
+    usage: /<command>

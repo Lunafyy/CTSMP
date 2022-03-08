@@ -1,0 +1,11 @@
+me\lunafy\ctsmpcore\commands\NewHeart.class
+me\lunafy\ctsmpcore\commands\SetHearts.class
+me\lunafy\ctsmpcore\CTSMPCore.class
+me\lunafy\ctsmpcore\events\PlayerDeathEvent.class
+me\lunafy\ctsmpcore\events\PlayerInteractEvent.class
+me\lunafy\ctsmpcore\recipes\ZombieCoreRecipe.class
+me\lunafy\ctsmpcore\items\ZombieHeart.class
+me\lunafy\ctsmpcore\recipes\ZombieHeartRecipe.class
+me\lunafy\ctsmpcore\items\Heart.class
+me\lunafy\ctsmpcore\recipes\ZombieHeartOfLifeRecipe.class
+me\lunafy\ctsmpcore\items\ZombieCore.class
